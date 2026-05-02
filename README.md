@@ -119,4 +119,4 @@ If you're reading this as a code reference:
 
 ---
 
-MIT License
+MIT License `LICENCE.md`
